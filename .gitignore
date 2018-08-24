@@ -9,7 +9,7 @@ Desktop.ini
 *.egg
 *.egg-info
 # dist
-build
+build/
 .idea/
 # My configurations:
 db.ini
